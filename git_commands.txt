@@ -1,0 +1,14 @@
+git init
+git add .
+git config --global user.email "marinrincat@gmail.com"
+git config --global user.name "Marin"
+git remote add origin 
+git commit -m " text "
+git branch
+git checkout main
+git push origin main
+git merge new_branch
+git rebase new_branch (+ history of commits)
+git push origin main https://github.com/marinrincat/marin-tasks-procedural-programming-repository.git
+git push origin main
+git clear
